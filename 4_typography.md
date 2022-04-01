@@ -15,3 +15,17 @@
 - serif
 - sans-serif
 - monospaced - letters and characters which occupy same ammount of space
+
+# typescale
+
+ratios by which we multiply larger font sizes.
+Popular typescales are:
+
+major third
+major second
+pefect fourth
+golden ratio
+perfect fifth
+
+Tool for checking diffrent type scales on a font familly:
+https://type-scale.com/
