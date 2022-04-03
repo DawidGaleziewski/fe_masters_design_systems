@@ -7,4 +7,4 @@ https://www.figma.com/file/FUgY11amAHtmR2zyiHcSYs/mbsr?node-id=1%3A127
 icons
 https://thenounproject.com/
 
-fem-design-systems.com/using-addons
+https://fem-design-systems.netify.com/
